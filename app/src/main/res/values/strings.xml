@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyDictionary</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="first_run">first_run</string>
+
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="indonesia_inggris">Indonesia-English</string>
+    <string name="inggris_indonesia">English-Indonesia</string>
+    <string name="loading">Loading</string>
+    <string name="query_hint">Enter word</string>
+    <string name="description">Description</string>
+    <string name="result">Result</string>
+    <string name="detail_activity">Detail</string>
+</resources>
